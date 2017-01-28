@@ -1,3 +1,6 @@
+# NLP MOOC
+## Week 2 - Assignment
+
 Download `w2a.zip` or the folder `asg2`  The required code-snippets for working on the Assignment 2 can be found at `Assignment 2 work-sheet.ipynb`.
 
 ## Functions
