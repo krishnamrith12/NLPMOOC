@@ -4,8 +4,8 @@ The required code-snippets for working on the Assignment 2 can be found at `Assi
 - For questions 5,6,7 use the function `levenshtein`
 - For question 6, modify the function `levenshtein` on the variable `substitutions`
 - For question 8, use the function `jaro_winkler`. The function is defined in the file `Edistance.py`
-- For questions 5 to 10, the function `uniFreq` is needed to calculate the count of unigrams in the corpus $C_3$
-- For question 9, the function `bigramFreq` is needed to calculate the count of bigrams in the corpus $C_3$
+- For questions 5 to 10, the function `uniFreq` is needed to calculate the count of unigrams in the corpus C<sub>3</sub>
+- For question 9, the function `bigramFreq` is needed to calculate the count of bigrams in the corpus C<sub>3</sub>
 - For question 10, use the code snippet given in the last cell
 
 ## Files
