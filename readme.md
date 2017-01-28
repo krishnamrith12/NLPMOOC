@@ -1,4 +1,4 @@
-The required code-snippets for working on the Assignment 2 can be found at `Assignment 2 work-sheet.ipynb'
+Download `w2a.zip` or the folder `NLPMOOC`  The required code-snippets for working on the Assignment 2 can be found at `Assignment 2 work-sheet.ipynb'
 
 ## Functions
 - For questions 5,6,7 use the function `levenshtein`
